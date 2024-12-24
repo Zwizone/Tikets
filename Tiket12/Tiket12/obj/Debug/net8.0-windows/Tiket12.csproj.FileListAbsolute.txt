@@ -1,0 +1,16 @@
+C:\Users\petrr\source\repos\Tiket12\Tiket12\bin\Debug\net8.0-windows\Tiket12.exe
+C:\Users\petrr\source\repos\Tiket12\Tiket12\bin\Debug\net8.0-windows\Tiket12.deps.json
+C:\Users\petrr\source\repos\Tiket12\Tiket12\bin\Debug\net8.0-windows\Tiket12.runtimeconfig.json
+C:\Users\petrr\source\repos\Tiket12\Tiket12\bin\Debug\net8.0-windows\Tiket12.dll
+C:\Users\petrr\source\repos\Tiket12\Tiket12\bin\Debug\net8.0-windows\Tiket12.pdb
+C:\Users\petrr\source\repos\Tiket12\Tiket12\obj\Debug\net8.0-windows\Tiket12.MainForm.resources
+C:\Users\petrr\source\repos\Tiket12\Tiket12\obj\Debug\net8.0-windows\Tiket12.csproj.GenerateResource.cache
+C:\Users\petrr\source\repos\Tiket12\Tiket12\obj\Debug\net8.0-windows\Tiket12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petrr\source\repos\Tiket12\Tiket12\obj\Debug\net8.0-windows\Tiket12.AssemblyInfoInputs.cache
+C:\Users\petrr\source\repos\Tiket12\Tiket12\obj\Debug\net8.0-windows\Tiket12.AssemblyInfo.cs
+C:\Users\petrr\source\repos\Tiket12\Tiket12\obj\Debug\net8.0-windows\Tiket12.csproj.CoreCompileInputs.cache
+C:\Users\petrr\source\repos\Tiket12\Tiket12\obj\Debug\net8.0-windows\Tiket12.dll
+C:\Users\petrr\source\repos\Tiket12\Tiket12\obj\Debug\net8.0-windows\refint\Tiket12.dll
+C:\Users\petrr\source\repos\Tiket12\Tiket12\obj\Debug\net8.0-windows\Tiket12.pdb
+C:\Users\petrr\source\repos\Tiket12\Tiket12\obj\Debug\net8.0-windows\Tiket12.genruntimeconfig.cache
+C:\Users\petrr\source\repos\Tiket12\Tiket12\obj\Debug\net8.0-windows\ref\Tiket12.dll

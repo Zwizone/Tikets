@@ -1,0 +1,16 @@
+C:\Users\petrr\source\repos\Tiket 11\Tiket 11\bin\Debug\net8.0-windows\Tiket 11.exe
+C:\Users\petrr\source\repos\Tiket 11\Tiket 11\bin\Debug\net8.0-windows\Tiket 11.deps.json
+C:\Users\petrr\source\repos\Tiket 11\Tiket 11\bin\Debug\net8.0-windows\Tiket 11.runtimeconfig.json
+C:\Users\petrr\source\repos\Tiket 11\Tiket 11\bin\Debug\net8.0-windows\Tiket 11.dll
+C:\Users\petrr\source\repos\Tiket 11\Tiket 11\bin\Debug\net8.0-windows\Tiket 11.pdb
+C:\Users\petrr\source\repos\Tiket 11\Tiket 11\obj\Debug\net8.0-windows\Tiket_11.MainForm.resources
+C:\Users\petrr\source\repos\Tiket 11\Tiket 11\obj\Debug\net8.0-windows\Tiket 11.csproj.GenerateResource.cache
+C:\Users\petrr\source\repos\Tiket 11\Tiket 11\obj\Debug\net8.0-windows\Tiket 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petrr\source\repos\Tiket 11\Tiket 11\obj\Debug\net8.0-windows\Tiket 11.AssemblyInfoInputs.cache
+C:\Users\petrr\source\repos\Tiket 11\Tiket 11\obj\Debug\net8.0-windows\Tiket 11.AssemblyInfo.cs
+C:\Users\petrr\source\repos\Tiket 11\Tiket 11\obj\Debug\net8.0-windows\Tiket 11.csproj.CoreCompileInputs.cache
+C:\Users\petrr\source\repos\Tiket 11\Tiket 11\obj\Debug\net8.0-windows\Tiket 11.dll
+C:\Users\petrr\source\repos\Tiket 11\Tiket 11\obj\Debug\net8.0-windows\refint\Tiket 11.dll
+C:\Users\petrr\source\repos\Tiket 11\Tiket 11\obj\Debug\net8.0-windows\Tiket 11.pdb
+C:\Users\petrr\source\repos\Tiket 11\Tiket 11\obj\Debug\net8.0-windows\Tiket 11.genruntimeconfig.cache
+C:\Users\petrr\source\repos\Tiket 11\Tiket 11\obj\Debug\net8.0-windows\ref\Tiket 11.dll
