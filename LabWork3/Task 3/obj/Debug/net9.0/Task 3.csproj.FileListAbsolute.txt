@@ -1,0 +1,14 @@
+C:\Temp\ispp31\LabWork3\Task 3\bin\Debug\net9.0\Task 3.exe
+C:\Temp\ispp31\LabWork3\Task 3\bin\Debug\net9.0\Task 3.deps.json
+C:\Temp\ispp31\LabWork3\Task 3\bin\Debug\net9.0\Task 3.runtimeconfig.json
+C:\Temp\ispp31\LabWork3\Task 3\bin\Debug\net9.0\Task 3.dll
+C:\Temp\ispp31\LabWork3\Task 3\bin\Debug\net9.0\Task 3.pdb
+C:\Temp\ispp31\LabWork3\Task 3\obj\Debug\net9.0\Task 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ispp31\LabWork3\Task 3\obj\Debug\net9.0\Task 3.AssemblyInfoInputs.cache
+C:\Temp\ispp31\LabWork3\Task 3\obj\Debug\net9.0\Task 3.AssemblyInfo.cs
+C:\Temp\ispp31\LabWork3\Task 3\obj\Debug\net9.0\Task 3.csproj.CoreCompileInputs.cache
+C:\Temp\ispp31\LabWork3\Task 3\obj\Debug\net9.0\Task 3.dll
+C:\Temp\ispp31\LabWork3\Task 3\obj\Debug\net9.0\refint\Task 3.dll
+C:\Temp\ispp31\LabWork3\Task 3\obj\Debug\net9.0\Task 3.pdb
+C:\Temp\ispp31\LabWork3\Task 3\obj\Debug\net9.0\Task 3.genruntimeconfig.cache
+C:\Temp\ispp31\LabWork3\Task 3\obj\Debug\net9.0\ref\Task 3.dll
